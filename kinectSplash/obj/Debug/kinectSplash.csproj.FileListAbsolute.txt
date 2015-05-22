@@ -1,0 +1,36 @@
+C:\Users\HTech\Documents\Visual Studio 2013\Projects\kinectSplash\kinectSplash\bin\Debug\kinectSplash.exe.config
+C:\Users\HTech\Documents\Visual Studio 2013\Projects\kinectSplash\kinectSplash\bin\Debug\kinectSplash.exe
+C:\Users\HTech\Documents\Visual Studio 2013\Projects\kinectSplash\kinectSplash\bin\Debug\kinectSplash.pdb
+C:\Users\HTech\Documents\Visual Studio 2013\Projects\kinectSplash\kinectSplash\obj\Debug\kinectSplash.kinectSplash.resources
+C:\Users\HTech\Documents\Visual Studio 2013\Projects\kinectSplash\kinectSplash\obj\Debug\kinectSplash.Properties.Resources.resources
+C:\Users\HTech\Documents\Visual Studio 2013\Projects\kinectSplash\kinectSplash\obj\Debug\kinectSplash.csproj.GenerateResource.Cache
+C:\Users\HTech\Documents\Visual Studio 2013\Projects\kinectSplash\kinectSplash\obj\Debug\kinectSplash.exe
+C:\Users\HTech\Documents\Visual Studio 2013\Projects\kinectSplash\kinectSplash\obj\Debug\kinectSplash.pdb
+C:\Users\HTech\Documents\Visual Studio 2013\Projects\kinectSplash\kinectSplash\obj\Debug\kinectSplash.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Documents\kinect-splash\kinectSplash\bin\Debug\kinectSplash.exe.config
+C:\Users\Jason\Documents\kinect-splash\kinectSplash\obj\Debug\kinectSplash.exe
+C:\Users\Jason\Documents\kinect-splash\kinectSplash\obj\Debug\kinectSplash.pdb
+C:\Users\Jason\Documents\kinect-splash\kinectSplash\bin\Debug\kinectSplash.exe
+C:\Users\Jason\Documents\kinect-splash\kinectSplash\bin\Debug\kinectSplash.pdb
+C:\Users\Jason\Documents\kinect-splash\kinectSplash\obj\Debug\kinectSplash.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Documents\kinect-splash\kinectSplash\obj\Debug\kinectSplash.kinectSplash.resources
+C:\Users\Jason\Documents\kinect-splash\kinectSplash\obj\Debug\kinectSplash.Properties.Resources.resources
+C:\Users\Jason\Documents\kinect-splash\kinectSplash\obj\Debug\kinectSplash.csproj.GenerateResource.Cache
+C:\Users\Euguene\Documents\kinect-splash\kinectSplash\bin\Debug\kinectSplash.exe.config
+C:\Users\Euguene\Documents\kinect-splash\kinectSplash\obj\Debug\kinectSplash.exe
+C:\Users\Euguene\Documents\kinect-splash\kinectSplash\obj\Debug\kinectSplash.pdb
+C:\Users\Euguene\Documents\kinect-splash\kinectSplash\bin\Debug\kinectSplash.exe
+C:\Users\Euguene\Documents\kinect-splash\kinectSplash\bin\Debug\kinectSplash.pdb
+C:\Users\Euguene\Documents\kinect-splash\kinectSplash\obj\Debug\kinectSplash.csprojResolveAssemblyReference.cache
+C:\Users\Euguene\Documents\kinect-splash\kinectSplash\obj\Debug\kinectSplash.kinectSplash.resources
+C:\Users\Euguene\Documents\kinect-splash\kinectSplash\obj\Debug\kinectSplash.Properties.Resources.resources
+C:\Users\Euguene\Documents\kinect-splash\kinectSplash\obj\Debug\kinectSplash.csproj.GenerateResource.Cache
+C:\Users\HTech\Documents\kinect-splash\kinectSplash\bin\Debug\kinectSplash.exe.config
+C:\Users\HTech\Documents\kinect-splash\kinectSplash\obj\Debug\kinectSplash.exe
+C:\Users\HTech\Documents\kinect-splash\kinectSplash\obj\Debug\kinectSplash.pdb
+C:\Users\HTech\Documents\kinect-splash\kinectSplash\bin\Debug\kinectSplash.exe
+C:\Users\HTech\Documents\kinect-splash\kinectSplash\bin\Debug\kinectSplash.pdb
+C:\Users\HTech\Documents\kinect-splash\kinectSplash\obj\Debug\kinectSplash.csprojResolveAssemblyReference.cache
+C:\Users\HTech\Documents\kinect-splash\kinectSplash\obj\Debug\kinectSplash.kinectSplash.resources
+C:\Users\HTech\Documents\kinect-splash\kinectSplash\obj\Debug\kinectSplash.Properties.Resources.resources
+C:\Users\HTech\Documents\kinect-splash\kinectSplash\obj\Debug\kinectSplash.csproj.GenerateResource.Cache
