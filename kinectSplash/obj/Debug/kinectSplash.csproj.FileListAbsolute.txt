@@ -34,3 +34,12 @@ C:\Users\HTech\Documents\kinect-splash\kinectSplash\obj\Debug\kinectSplash.cspro
 C:\Users\HTech\Documents\kinect-splash\kinectSplash\obj\Debug\kinectSplash.kinectSplash.resources
 C:\Users\HTech\Documents\kinect-splash\kinectSplash\obj\Debug\kinectSplash.Properties.Resources.resources
 C:\Users\HTech\Documents\kinect-splash\kinectSplash\obj\Debug\kinectSplash.csproj.GenerateResource.Cache
+D:\Users\jsnulla\Documents\Projects\kinect-splash\kinectSplash\bin\Debug\kinectSplash.exe.config
+D:\Users\jsnulla\Documents\Projects\kinect-splash\kinectSplash\obj\Debug\kinectSplash.exe
+D:\Users\jsnulla\Documents\Projects\kinect-splash\kinectSplash\obj\Debug\kinectSplash.pdb
+D:\Users\jsnulla\Documents\Projects\kinect-splash\kinectSplash\obj\Debug\kinectSplash.csprojResolveAssemblyReference.cache
+D:\Users\jsnulla\Documents\Projects\kinect-splash\kinectSplash\obj\Debug\kinectSplash.kinectSplash.resources
+D:\Users\jsnulla\Documents\Projects\kinect-splash\kinectSplash\obj\Debug\kinectSplash.Properties.Resources.resources
+D:\Users\jsnulla\Documents\Projects\kinect-splash\kinectSplash\obj\Debug\kinectSplash.csproj.GenerateResource.Cache
+D:\Users\jsnulla\Documents\Projects\kinect-splash\kinectSplash\bin\Debug\kinectSplash.exe
+D:\Users\jsnulla\Documents\Projects\kinect-splash\kinectSplash\bin\Debug\kinectSplash.pdb

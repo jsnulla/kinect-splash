@@ -18,6 +18,9 @@ namespace kinectSplash
         int screenHeight;
         bool isClosing = false;
 
+        const string ImageDirJPG = "C:\\HTech\\KinectTmpFile\\UserColorMap.jpg";
+        const string ImageDirPNG = "C:\\HTech\\KinectTmpFile\\UserColorMap.png";
+
         // Set Window Position
         [System.Runtime.InteropServices.DllImport("user32.dll", EntryPoint = "SetWindowPos")]
         public static extern IntPtr SetWindowPos(IntPtr hWnd, IntPtr hWndInsertAfter, int x, int Y, int cx, int cy, int wFlags);
@@ -130,7 +133,18 @@ namespace kinectSplash
         {
             try
             {
-                string fileName = " C:\\HTech\\KinectTmpFile\\UserColorMap.png";
+                string fileName = string.Empty;
+                // Check first if JPG is present
+                if (File.Exists(ImageDirJPG))
+                {
+                    fileName = ImageDirJPG;
+                }
+                // If JPG is not present, look for PNG
+                else if (File.Exists(ImageDirPNG))
+                {
+                    fileName = ImageDirPNG;
+                }
+
                 FileStream fs = new FileStream(fileName, FileMode.Open, FileAccess.Read, System.IO.FileShare.ReadWrite);
                 pictureBox2.Image = System.Drawing.Image.FromStream(fs);
                 pictureBox2.Image.RotateFlip(RotateFlipType.Rotate180FlipNone);
